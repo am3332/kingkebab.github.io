@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/am3332/kingkebab.github.io",
+  "homepage": "https://am3332.github.io/kingkebab.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
